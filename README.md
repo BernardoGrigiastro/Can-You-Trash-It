@@ -7,7 +7,7 @@ Yes, you can!
 
 ## About
 
-This mod adds three new trashcans to the game where you can throw away the resources you don't want. The three variations are: the item trashcan, the fluid trashcan and the energy trashcan. The item trashcan deletes items so be careful what you put in it. The fluid trashcan can remove fluids from buckets and other fluid containers and can also remove fluids pumped into it by pipes or such. Lastly, the energy trashcan can remove energy from chargeable items and also takes care of the energy you no longer want via cables and things like that.
+This mod adds three new trashcans to the game where you can throw away the resources you don't want. The three variations are: the item trashcan, the fluid trashcan and the energy trashcan. The item trashcan deletes items so be careful what you put into it. The fluid trashcan can remove fluids from buckets and other fluid containers and can also remove fluids pumped into it by pipes or such. Lastly, the energy trashcan can remove energy from chargeable items and also takes care of the energy you no longer want via cables and things like that.
 
 ## Features
 
