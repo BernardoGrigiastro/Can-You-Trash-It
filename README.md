@@ -13,7 +13,7 @@ This mod adds three new trashcans to the game where you can throw away the resou
 
 Currently this mod is only for 1.18!
 
-It has compatibility with most technology mods but has only had special compatibilty added with Tech Reborn and their fluid cells.
+It has compatibility with most technology mods but has only had special compatibility added with Tech Reborn and their fluid cells.
 If there are any mods you want added compatibility with or any issues or bugs  just go to the [github issue tracker](https://github.com/reinderpjs/Can-You-Trash-It/issues)
 
 Since the mod is under the MIT license you can use it freely in your modpacks so feel free to do so.
