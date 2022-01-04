@@ -1,0 +1,16 @@
+{
+    "text.autoconfig.trashcans.title": "Modifications of the Waste Containers",
+    "text.autoconfig.trashcans.option.trashSettings": "Can Settings",
+    "text.autoconfig.trashcans.option.trashSettings.directBucketClearing": "Direct Bucket Clearing",
+    "text.autoconfig.trashcans.option.trashSettings.directBucketClearing.@Tooltip": "Empty bucket directly by right-clicking on the Fluid Trashcan.",
+    "text.autoconfig.trashcans.option.trashSettings.shiftClearingBucket": "Shift-Cleaning Bucket",
+    "text.autoconfig.trashcans.option.trashSettings.shiftClearingBucket.@Tooltip": "When shift-clicking a bucket inside a Fluid Trashcan it immediately empties without changing slot.",
+    "text.autoconfig.trashcans.option.trashSettings.oneTickItemEnergyDepletion": "One-Tick Item Energy Depletion",
+    "text.autoconfig.trashcans.option.trashSettings.oneTickItemEnergyDepletion.@Tooltip": "Removing the energy from an item takes just one tick.",
+    "text.autoconfig.trashcans.option.trashSettings.energyTrashcanInput": "Energy Trashcan Input",
+    "text.autoconfig.trashcans.option.trashSettings.energyTrashcanInput.@Tooltip": "The energy per tick input by both items and cables.",
+    "block.trashcans.trashcan_item": "Item Trashcan",
+    "block.trashcans.trashcan_fluid": "Fluid Trashcan",
+    "block.trashcans.trashcan_energy": "Energy Trashcan",
+    "block.trashcans.hopper_fluid": "Fluid Hopper"
+}

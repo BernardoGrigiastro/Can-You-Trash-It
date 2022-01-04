@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "trashcans:block/trashcan_item" }
+    }
+}
